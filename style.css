@@ -34,7 +34,6 @@ html {
 
 .logo img {
   height: 5rem;
-  width: 100%;
 }
 
 .border {
@@ -194,6 +193,11 @@ span {
   margin-top: 1.5rem;
 }
 
+.box p {
+  cursor: pointer;
+  font-size: 1.5rem;
+  color: red;
+}
 .box-img {
   background-size: cover;
   height: 30rem;
